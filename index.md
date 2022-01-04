@@ -6,7 +6,7 @@
 
 | Date      | In Class | Due |
 | :-----------: | :-----------: |:-----------: |
-| 1/18/21  | What is Data Science <br> [Ida B. Wells](https://www.loc.gov/resource/mfd.40021/?sp=19)<br> Excel | Make sure to have Excel on your computer |
+| 1/18/21  | What is Data Science <br>** [Ida B. Wells](https://www.loc.gov/resource/mfd.40021/?sp=19)**<br> Excel | Make sure to have Excel on your computer |
 | 1/20/21  | Excel Presentations  | [First Presentation](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
 | 1/25/21  | VBA  | |
 | 1/27/21  | More VBA  | VBA Homework Due |
@@ -36,7 +36,7 @@
 | 4/21/21  |  |  |
 | 4/26/21  |    | |
 | 4/28/21  |    | |
-
+**
 
 
 You can use the [editor on GitHub](https://github.com/arielcwebster/DataScience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
