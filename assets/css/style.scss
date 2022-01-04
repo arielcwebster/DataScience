@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-tr:hover {background-color: yellow;}
-
 tr:nth-child(3n) {background-color: #f2f2f2;}
 tr:nth-child(3n+1) {background-color: #f2f2f2;}
+
+tr:hover {background-color: #e35259;}
