@@ -22,8 +22,8 @@
 | 3/3/21  | GGPLOTS  | |
 | 3/8/21  | More GGPLOTS     |  |
 | 3/10/21 | GGPLOTS FOREVER  | GGPLOTS Homework Due |
-| 3/15/21 | *SPRING BREAK*   |  |
-| 3/17/21 | *SPRING BREAK - WOO*    |  |
+| 3/15/21 | *   SPRING BREAK   *   |  |
+| 3/17/21 | *    SPRING BREAK - WOO    *    |  |
 | 3/22/21 |  Remember Statistics?    |  |
 | 3/24/21 |  Random Forests | |
 | 3/29/21 | Advising Day    | |
