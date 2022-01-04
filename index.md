@@ -4,9 +4,10 @@
 
 ### Schedule
 ```markdown
-1
-2
-3
+| Date      | In Class | Due |
+| ----------- | ----------- |
+| 1/18/21      | Excel     | Make sure to have Excel on your computer |
+| 1/20/21  | Presentations  | First Presentation |
 ```
 
 
