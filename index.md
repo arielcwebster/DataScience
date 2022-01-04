@@ -22,20 +22,20 @@
 | 3/3/21  | GGPLOTS  | |
 | 3/8/21  | More GGPLOTS     |  |
 | 3/10/21 | GGPLOTS FOREVER  | GGPLOTS Homework Due |
-| 3/15/21 | *   SPRING BREAK   *   |  |
-| 3/17/21 | *    SPRING BREAK - WOO    *    |  |
-| 3/22/21 |  Remember Statistics?    |  |
-| 3/24/21 |  Random Forests | |
+| 3/15/21 | SPRING BREAK |  |
+| 3/17/21 | SPRING BREAK - WOO |  |
+| 3/22/21 | Remember Statistics?    |  |
+| 3/24/21 | Random Forests | |
 | 3/29/21 | Advising Day    | |
 | 3/31/21 | Presentations  | Random Forests Homework Due |
 | 4/5/21  | Clustering - K Nearest Neighbors   |  |
 | 4/7/21  |  |  |
-| 4/12/21 |  | |
+| 4/12/21 |  | Random Forests Homework Due |
 | 4/14/21 |  | |
 | 4/19/21 |  | |
-| 4/21/21 |  | |
+| 4/21/21 | Practice Presentations | Milestone |
 | 4/26/21 |  | |
-| 4/28/21 |  | |
+| 4/28/21 | Project Presentations | Final Project Due |
 
 
 
