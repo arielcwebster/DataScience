@@ -5,12 +5,12 @@
 ### Schedule
 
 | Date      | In Class | Due |
-| ----------- | ----------- |----------- |
+| :-----------: | :-----------: |:-----------: |
 | 1/18/21  | What is Data Science <br> [Ida B. Wells](https://www.loc.gov/resource/mfd.40021/?sp=19)<br> Excel | Make sure to have Excel on your computer |
-| 1/20/21  | Excel Presentations  | [First Presentation](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
+| 1/20/21  |``` Excel Presentations ``` | [First Presentation](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
 | 1/25/21  | VBA     | |
 | 1/27/21  | More VBA  | VBA Homework Due |
-| 2/1/21  | Why is Data Visualization Important   | Florence Nightengale |
+| 2/1/21  | Why is Data Visualization Important   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
 | 2/3/21  | Tablau  |  |
 | 1/18/21  | Chart Readability   | How Charts Lie |
 | 1/20/21  | Tablau  | Tablau Homework Due |
