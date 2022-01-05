@@ -30,7 +30,7 @@
 | 3/31/21 | Presentations  | Random Forests Homework Due |
 | 4/5/21  | Clustering - K Nearest Neighbors   |  |
 | 4/7/21  |  |  |
-| 4/12/21 |  | Random Forests Homework Due |
+| 4/12/21 |  | Clustering Homework Due |
 | 4/14/21 |  | |
 | 4/19/21 |  | |
 | 4/21/21 | Practice Presentations | Milestone |
