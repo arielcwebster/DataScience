@@ -37,18 +37,3 @@
 | 4/26/21 |  | |
 | 4/28/21 | Project Presentations | Final Project Due |
 
-
-
-You can use the [editor on GitHub](https://github.com/arielcwebster/DataScience/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
