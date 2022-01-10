@@ -56,7 +56,14 @@ If you did follow **Step 3** you can get to pages slightly more quickly by click
   <img width="400" height="450" src="DangerZonePages.png">
 </p>
 
-Once you 
+Once on the **Pages** page click on the button marked **Choose a theme** and have fun clicking through all the themes to figure out which one you like the most. Then click **Select Theme**
+
+
+<h2>vertical-align: middle</h2>
+<p>Once on the **Pages** page click on the button marked <img src="ChooseTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"> and have fun clicking through all the themes to figure out which one you like the most. Then click <img src="SelectTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"></p>
+
+
+
 ## Step 5
 5 - go to pages Settings -> Pages  and under source select Main
 
