@@ -10,7 +10,9 @@ Create a github account, if you don't already have one, by going to [this link](
 
 Create a new repository for AdvancedDataScience.
 
-![Create a new repository for AdvancedDataScience.](CreateGitRepository.png "Title")
+<p align="center">
+  <img width="360" height="400" src="CreateGitRepository.png">
+</p>
 
 
 2 - Create a repository
