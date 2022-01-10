@@ -60,7 +60,7 @@ Once on the **Pages** page click on the button marked **Choose a theme** and hav
 
 
 <h2>vertical-align: middle</h2>
-<p>Once on the **Pages** page click on the button marked <img src="ChooseTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"> and have fun clicking through all the themes to figure out which one you like the most. Then click <img src="SelectTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"></p>
+<p>Once on the <b>Pages</b> page click on the button marked <img src="ChooseTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"> and have fun clicking through all the themes to figure out which one you like the most. Then click <img src="SelectTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"></p>
 
 
 
