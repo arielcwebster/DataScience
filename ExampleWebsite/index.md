@@ -77,6 +77,9 @@ To link data to your code you can simply upload the data to github and then crea
 
 If your website doesn't update right away don't worry. Sometimes it takes a few minutes.
 
+## Step 6 - Spell Check
+
+Avoid making Ariel sad. ***SPELL CHECK YOUR WORK***. You can copy paste your code into a document that has spell check to do this if your browser doesn't spell check for you in your markdown file.
 
 #### Note! 
 I have not included two data sets for explanation here because doing so doesn't make as much sense when creating a website as it does with using a tool in excel. You *do* need to provide examples of how your tool is used on two datasets. 
