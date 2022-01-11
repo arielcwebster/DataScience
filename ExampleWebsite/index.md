@@ -1,10 +1,4 @@
 
-What - Write a short paragraph explaining what the tool you are creating a tutorial for is. 
-Why - Write a short paragraph explaining why someone might want to use this tool and what situations it would be helpful in.
-How - Write a step by step explanation for how your tool is used. You should take screenshots of every step as well as listing each link in paths needed to find buttons (ex. File->Save) Examples should be provided with at least two data sets and each data set should illustrate something different about the tool. 
-Data - Finally you should link to an excel spreadsheet that has all the data you used so your classmates can try out your tool for themselves. 
-
-
 You have been asked to create a website to act as a quick tutorial for github. Github is ideal for creating websites because it is free and you can store code and data files that are easily referenced by in the outward facing websites you create. This example webpage should show you what I expect for the level of detail of your website, it should also help you put together the actual website itself. 
 
 # How to Create a Github Website
@@ -75,12 +69,14 @@ The main other thing you will need to know that is not included in this file is 
 
 or in the text `<p>text text <img src="filename.png" alt="alt text" width="75" height="30" style="vertical-align:bottom"> text text text</p>`
 
-### Code 
-If you would like to print code to the screen use the backwards apostrophe ``. To create a code block use three `````` before and after the code you would like to insert. 
+### Data
+To link data to your code you can simply upload the data to github and then create a weblink to the data in your markdown file. 
 
 ### Published Website
 <p>You can make changes to this file and then hit <img src="CommitChanges.png" alt="Choose a theme" width="85" height="30" style="vertical-align:bottom"> at the bottom of the screen. You will then be able to view your website by going to https://YOURGITHUBUSERNAME.github.io/REPOSITORYNAME/ replacing the UPPER CASE portions of the URL with your github user name and the repository name for the website. If you would like to make further changes click the small pencil icon near the top right of the page. <img src="Pencil.png" alt="Pencil Icon" width="30" height="30" style="vertical-align:bottom"></p>
 
 
 
-Note! I have not included two data sets for explanation here because doing so doesn't make as much sense when creating a website as it does with using a tool in excel. You *do* need to provide examples of how your tool is used on two datasets. 
+#### Note! 
+I have not included two data sets for explanation here because doing so doesn't make as much sense when creating a website as it does with using a tool in excel. You *do* need to provide examples of how your tool is used on two datasets. 
+
