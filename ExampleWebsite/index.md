@@ -75,6 +75,7 @@ To link data to your code you can simply upload the data to github and then crea
 ### Published Website
 <p>You can make changes to this file and then hit <img src="CommitChanges.png" alt="Choose a theme" width="85" height="30" style="vertical-align:bottom"> at the bottom of the screen. You will then be able to view your website by going to https://YOURGITHUBUSERNAME.github.io/REPOSITORYNAME/ replacing the UPPER CASE portions of the URL with your github user name and the repository name for the website. If you would like to make further changes click the small pencil icon near the top right of the page. <img src="Pencil.png" alt="Pencil Icon" width="30" height="30" style="vertical-align:bottom"></p>
 
+If your website doesn't update right away don't worry. Sometimes it takes a few minutes.
 
 
 #### Note! 
