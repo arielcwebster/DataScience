@@ -56,15 +56,31 @@ If you did follow **Step 3** you can get to pages slightly more quickly by click
   <img width="400" height="450" src="DangerZonePages.png">
 </p>
 
-Once on the **Pages** page click on the button marked **Choose a theme** and have fun clicking through all the themes to figure out which one you like the most. Then click **Select Theme**
+<p>Once on the <b>Pages</b> page click on the button marked <img src="ChooseTheme.png" alt="Choose a theme" width="85" height="30" style="vertical-align:bottom"> and have fun clicking through all the themes to figure out which one you like the most. Then click <img src="SelectTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"></p>
 
 
-<h2>vertical-align: middle</h2>
-<p>Once on the <b>Pages</b> page click on the button marked <img src="ChooseTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"> and have fun clicking through all the themes to figure out which one you like the most. Then click <img src="SelectTheme.png" alt="Choose a theme" width="75" height="30" style="vertical-align:bottom"></p>
+## Step 5 - index.md
+This will bring you to an index.md file where you can create your website in the language Markdown. There will already be some instructions in the index.md file about how to use markdown (section headers, bolded words, etc.) 
+
+### Images 
+The main other thing you will need to know that is not included in this file is how to include images. You can either do this by writing `![alt text](filename.png)` The image that you want to display will need to be in the same folder as your index.md file on github for this to work. You can also put a path instead of just the filename. If you would like more control over how your images display you can insert html code directly into the markdown website either as stand alone images:
+
+  ```
+  <p align="left">
+  
+    <img width="400" height="450" src="filename.png">
+    
+  </p>
+  ```
+
+or in the text `<p>text text <img src="filename.png" alt="alt text" width="75" height="30" style="vertical-align:bottom"> text text text</p>`
+
+### Code 
+If you would like to print code to the screen use the backwards apostrophe ``. To create a code block use three `````` before and after the code you would like to insert. 
+
+### Published Website
+<p>You can make changes to this file and then hit <img src="CommitChanges.png" alt="Choose a theme" width="85" height="30" style="vertical-align:bottom"> at the bottom of the screen. You will then be able to view your website by going to https://YOURGITHUBUSERNAME.github.io/REPOSITORYNAME/ replacing the UPPER CASE portions of the URL with your github user name and the repository name for the website. If you would like to make further changes click the small pencil icon near the top right of the page. <img src="Pencil.png" alt="Pencil Icon" width="30" height="30" style="vertical-align:bottom"></p>
 
 
-
-## Step 5
-5 - go to pages Settings -> Pages  and under source select Main
 
 Note! I have not included two data sets for explanation here because doing so doesn't make as much sense when creating a website as it does with using a tool in excel. You *do* need to provide examples of how your tool is used on two datasets. 
