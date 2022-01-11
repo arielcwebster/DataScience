@@ -1,7 +1,7 @@
 
-You have been asked to create a website to act as a quick tutorial for github. Github is ideal for creating websites because it is free and you can store code and data files that are easily referenced by in the outward facing websites you create. This example webpage should show you what I expect for the level of detail of your website, it should also help you put together the actual website itself. 
+# How to Create a Github Website - Example Website
 
-# How to Create a Github Website
+You have been asked to create a website to act as a quick tutorial for github. Github is ideal for creating websites because it is free and you can store code and data files that are easily referenced by in the outward facing websites you create. This example webpage should show you what I expect for the level of detail of your website, it should also help you put together the actual website itself. 
 
 ## Step 1 - Account
 
