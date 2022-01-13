@@ -5,7 +5,7 @@ Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.
 **Text Book** - None of the below options are required but they may be good resources for the class. 
   - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
 
-### [Syllabus](https://github.com/arielcwebster/DataScience/edit/gh-pages/index.md)
+### Syllabus (Coming Soon)
 
 ### Schedule
 
