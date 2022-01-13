@@ -1,6 +1,8 @@
 ## Advanced Data Science 
 
-Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.com/forms/d/1jc2dXeU9GJZOfAxPFntLP7bNMJ5hwgOVPXl3L9O_x4Y/edit) about your availability so I can set them accordingly) or you can make an appointment outside those times by clicking this [link](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFwT2R0NWJJNk1ffGRlZmF1bHR8YzhhMzM4NmIyYWYyN2I1ZjE1NDBkODkzNDcxNzBlZTA)
+Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.com/forms/d/1jc2dXeU9GJZOfAxPFntLP7bNMJ5hwgOVPXl3L9O_x4Y/edit) about your availability so I can set them accordingly) or you can make an appointment outside those times by clicking this [link.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFwT2R0NWJJNk1ffGRlZmF1bHR8YzhhMzM4NmIyYWYyN2I1ZjE1NDBkODkzNDcxNzBlZTA)
+
+Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the end of the first week of class.
 
 **Text Book** - None of the below options are required but they may be good resources for the class. 
   - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
@@ -12,8 +14,8 @@ Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.
 | Date    | In Class | Due |
 | :---:   | :---: |:---: |
 | 1/18/21 | What is Data Science <br><a href="https://www.loc.gov/resource/mfd.40021/?sp=19" target="_blank">Ida B. Wells</a> <br> Excel | Make sure to have Excel on your computer |
-| 1/20/21 | Excel Presentations  | [First Presentation](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
-| 1/25/21 | VBA  ||
+| 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
+| 1/25/21 | VBA Light Overview  ||
 | 1/27/21 | More VBA  | VBA Homework Due |
 | 2/1/21  | Why is Data Visualization Important   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
 | 2/3/21  | Tablau  |  |
