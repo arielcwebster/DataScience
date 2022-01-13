@@ -1,12 +1,8 @@
 ## Advanced Data Science 
 
-Ariel's Office Hours are 2-2:30 MW or you can make an appointment outside those times by clicking this [link]()
+Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.com/forms/d/1jc2dXeU9GJZOfAxPFntLP7bNMJ5hwgOVPXl3L9O_x4Y/edit) about your availability so I can set them accordingly) or you can make an appointment outside those times by clicking this [link](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFwT2R0NWJJNk1ffGRlZmF1bHR8YzhhMzM4NmIyYWYyN2I1ZjE1NDBkODkzNDcxNzBlZTA)
 
 **Text Book** - None of the below options are required but they may be good resources for the class. 
-  - Intro to Python for Computer Science and Data Science (ISBN: 9780135404676)
-  - Python Data Science Handbook (PDF [here])
-  - Python for Data Analysis (PDF [here])
-  - Data Science from Scratch: First Principles with Python (ISBN-13: 9781491901427)
   - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
 
 ### [Syllabus](https://github.com/arielcwebster/DataScience/edit/gh-pages/index.md)
