@@ -4,9 +4,6 @@ Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.
 
 Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the end of the first week of class.
 
-**Text Book** - None of the below options are required but they may be good resources for the class. 
-  - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
-
 ### Syllabus (Coming Soon)
 
 ### Schedule
@@ -44,4 +41,13 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 4/26/21 |  | |
 | 4/28/21 | Project Presentations | Final Project Due |
 
-### More Resources and Recommended Reading
+## More Resources
+
+### Recommended Reading
+
+Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
+[In US cities, open data is not just nice to have; it's the norm](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)
+
+### Data Sets
+[Open Maryland Data](https://gopi.maryland.gov/)
+[NYT Covid Data](https://github.com/nytimes/covid-19-data)
