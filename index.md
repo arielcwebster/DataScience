@@ -10,7 +10,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 | Date    | In Class | Due |
 | :---:   | :---: |:---: |
-| 1/18/21 | What is Data Science <br><a href="https://www.loc.gov/resource/mfd.40021/?sp=19" target="_blank">Ida B. Wells</a> <br> Excel | Make sure to have Excel on your computer |
+| 1/18/21 | Day 1 - What is Data Science? | Make sure to have Excel on your computer |
 | 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
 | 1/25/21 | VBA Light Overview  ||
 | 1/27/21 | More VBA  | VBA Homework Due |
@@ -45,11 +45,11 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 ### Recommended Reading
 
-Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
-[A Free Data Visualization Text](https://mschermann.github.io/data_viz_reader/introduction.html)
-[In US cities, open data is not just nice to have; it's the norm](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)
+- Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
+- [A Free Data Visualization Text](https://mschermann.github.io/data_viz_reader/introduction.html)
+- [In US cities, open data is not just nice to have; it's the norm](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)
 
 
 ### Data Sets
-[Open Maryland Data](https://gopi.maryland.gov/)
-[NYT Covid Data](https://github.com/nytimes/covid-19-data)
+- [Open Maryland Data](https://gopi.maryland.gov/)
+- [NYT Covid Data](https://github.com/nytimes/covid-19-data)
