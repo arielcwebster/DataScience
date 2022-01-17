@@ -13,8 +13,8 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 1/18/21 | What is Data Science? | Make sure to have Excel on your computer |
 | 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
 | 1/25/21 | VBA Light Overview  ||
-| 1/27/21 | More VBA  | VBA Homework Due |
-| 2/1/21  | Why is Data Visualization Important   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
+| 1/27/21 | Writing about Data  | VBA Homework Due |
+| 2/1/21  | Why is Data Visualization Important?   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
 | 2/3/21  | Tablau  |  |
 | 2/8/21  | Chart Readability   | How Charts Lie |
 | 2/10/21 | Tablau  | Tablau Homework Due |
