@@ -46,7 +46,9 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 ### Recommended Reading
 
 Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
+[A Free Data Visualization Text](https://mschermann.github.io/data_viz_reader/introduction.html)
 [In US cities, open data is not just nice to have; it's the norm](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)
+
 
 ### Data Sets
 [Open Maryland Data](https://gopi.maryland.gov/)
