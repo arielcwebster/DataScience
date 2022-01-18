@@ -10,7 +10,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 | Date    | In Class | Due |
 | :---:   | :---: |:---: |
-| 1/18/21 | What is Data Science? | Make sure to have Excel on your computer |
+| 1/18/21 | What is Data Science? <br> [In Class Reading](http://jse.amstat.org/v23n2/witmer.pdf)| Make sure to have Excel on your computer |
 | 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
 | 1/25/21 | VBA Light Overview  ||
 | 1/27/21 | Writing about Data  | VBA Homework Due |
