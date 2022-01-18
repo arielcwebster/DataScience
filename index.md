@@ -4,7 +4,7 @@ Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.
 
 Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the end of the first week of class.
 
-### Syllabus (Coming Soon)
+### [Syllabus](Syllabus.pdf)
 
 ### Schedule
 
