@@ -12,8 +12,8 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | :---:   | :---: |:---: |
 | 1/18/21 | What is Data Science? <br> [In Class Reading](http://jse.amstat.org/v23n2/witmer.pdf)| Make sure to have Excel on your computer |
 | 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
-| 1/25/21 | VBA Light Overview  ||
-| 1/27/21 | Writing about Data  | VBA Homework Due |
+| 1/25/21 | Excel Presentations and Writing about Data ||
+| 1/27/21 | Writing about Data and Work Day | [VBA Homework](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit) |
 | 2/1/21  | Why is Data Visualization Important?   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
 | 2/3/21  | Tablau  |  |
 | 2/8/21  | Chart Readability   | How Charts Lie |
@@ -48,8 +48,14 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
 - [A Free Data Visualization Text](https://mschermann.github.io/data_viz_reader/introduction.html)
 - [In US cities, open data is not just nice to have; it's the norm](https://www.theguardian.com/local-government-network/2013/oct/21/open-data-us-san-francisco)
+- [Why Writing about Data Science is Good for your Career](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
+- [How to Write Well](https://towardsdatascience.com/get-better-in-data-science-writing-and-the-opportunities-will-grow-9d37fdada262)
 
 
 ### Data Sets
 - [Open Maryland Data](https://gopi.maryland.gov/)
 - [NYT Covid Data](https://github.com/nytimes/covid-19-data)
+- [UN Refugee Agency](https://www.unhcr.org/en-us/data.html)
+- [World Health Organization](https://www.who.int/data/collections)
+- [UN Enviornmental Program](https://www.unep.org/publications-data)
+- [Our World in Data](https://ourworldindata.org/)
