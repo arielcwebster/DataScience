@@ -45,10 +45,12 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 ### Class Resources
 
+1/25/22
 - [Human Longevity](https://rss.onlinelibrary.wiley.com/doi/epdf/10.1111/1740-9713.01582)
 - [Tuition Free Divide](https://www.pewresearch.org/fact-tank/2021/08/11/democrats-overwhelmingly-favor-free-college-tuition-while-republicans-are-divided-by-age-education/)
 - [Pew Topics](https://www.pewresearch.org/topics-categorized/)
 
+2/1/22
 - [Gallup](https://www.gallup.com/home.aspx)
 - [2013 Higher Ed Data](https://github.com/arielcwebster/DataScience/blob/main/IPEDS_data.xlsx)
 
