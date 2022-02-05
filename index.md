@@ -62,6 +62,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [Why Writing about Data Science is Good for your Career](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
 - [How to Write Well](https://towardsdatascience.com/get-better-in-data-science-writing-and-the-opportunities-will-grow-9d37fdada262)
 - [A Brief History of Data Visualization](https://www.datavis.ca/papers/hbook.pdf)
+- [Chart Selection Matrix](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)
 
 
 ### Data Sets
