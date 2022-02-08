@@ -15,17 +15,17 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 1/25/21 | Excel Presentations and Writing about Data ||
 | 1/27/21 | Writing about Data and Work Day | [VBA Homework](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit) |
 | 2/1/21  | Why is Data Visualization Important?   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
-| 2/3/21  | Tablau  |  |
-| 2/8/21  | Chart Readability   | How Charts Lie |
-| 2/10/21 | Tablau  | Tablau Homework Due |
-| 2/15/21 | Data Annonymization    | How to UN-Annonymize Data|
-| 2/17/21 | Sentiment Analysis | First Presentation |
-| 2/22/21 | VADER    | Make sure to have Excel on your computer |
-| 2/24/21 | R  | Sentiment Analysis Homework Due |
-| 3/1/21  | More R     |  |
-| 3/3/21  | GGPLOTS  | |
-| 3/8/21  | More GGPLOTS     |  |
-| 3/10/21 | GGPLOTS FOREVER  | GGPLOTS Homework Due |
+| 2/3/21  | Class Cancled  |  |
+| 2/8/21  | Work Day   |  |
+| 2/10/21 | Data Exploration with Data Visualizations| [Data Visualization: What Works](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)<br> [Tablau Homework Due](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit#) |
+| 2/15/21 | Introduction to R   | Reveal, Don't Conceal <br> Beyond Bar and Line Graphs|
+| 2/17/21 | Introduction to GGPLOTS | How Charts Lie |
+| 2/22/21 | Guest Speaker ||
+| 2/24/21 | Work Day | Data Exploration Homework |
+| 3/1/21  | Ethics and Data Annonymity |  |
+| 3/3/21  | How to Un-Annonymize Data  | GGPLOTS Homework|
+| 3/8/21  | P- Hacking |  |
+| 3/10/21 | Work Day| Data Annonymity Howework |
 | 3/15/21 | SPRING BREAK |  |
 | 3/17/21 | SPRING BREAK - WOO |  |
 | 3/22/21 | Remember Statistics?    |  |
