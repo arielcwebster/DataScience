@@ -12,13 +12,13 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | :---:   | :---: |:---: |
 | 1/18/21 | What is Data Science? <br> [In Class Reading](http://jse.amstat.org/v23n2/witmer.pdf)| Make sure to have Excel on your computer |
 | 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
-| 1/25/21 | Excel Presentations and Writing about Data ||
-| 1/27/21 | Writing about Data and Work Day | [VBA Homework](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit) |
-| 2/1/21  | Why is Data Visualization Important?   | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
+| 1/25/21 | Excel Presentations and Data Communication ||
+| 1/27/21 | Work Day | [VBA Homework](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit) |
+| 2/1/21  | Importance of Visualizations & Tableau  | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
 | 2/3/21  | Class Cancled  |  |
 | 2/8/21  | Work Day   |  |
 | 2/10/21 | Data Exploration with Data Visualizations| [Data Visualization: What Works](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)<br> [Tablau Homework Due](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit#) |
-| 2/15/21 | Introduction to R   | Reveal, Don't Conceal <br> Beyond Bar and Line Graphs|
+| 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7) <br> [Beyond Bar and Line Graphs](https://forms.gle/Mm5B15iNXZaZBBBi9)|
 | 2/17/21 | Introduction to GGPLOTS | How Charts Lie |
 | 2/22/21 | Guest Speaker ||
 | 2/24/21 | Work Day | Data Exploration Homework |
