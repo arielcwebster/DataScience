@@ -18,7 +18,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 2/3/21  | Class Cancled  |  |
 | 2/8/21  | Work Day   |  |
 | 2/10/21 | Data Exploration with Data Visualizations| [Data Visualization: What Works](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)<br> [Tablau Homework Due](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit#) |
-| 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7) <br> [Beyond Bar and Line Graphs](https://forms.gle/Mm5B15iNXZaZBBBi9)|
+| 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7)|
 | 2/17/21 | Introduction to GGPLOTS | How Charts Lie |
 | 2/22/21 | Guest Speaker ||
 | 2/24/21 | Work Day | Data Exploration Homework |
@@ -63,6 +63,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [How to Write Well](https://towardsdatascience.com/get-better-in-data-science-writing-and-the-opportunities-will-grow-9d37fdada262)
 - [A Brief History of Data Visualization](https://www.datavis.ca/papers/hbook.pdf)
 - [Chart Selection Matrix](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)
+- [Beyond Bar and Line Graphs](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128#)
 
 
 ### Data Sets
