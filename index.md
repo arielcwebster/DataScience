@@ -19,7 +19,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 2/8/21  | Work Day   |  |
 | 2/10/21 | Data Exploration with Data Visualizations| [Data Visualization: What Works](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)<br> [Tablau Homework Due](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit#) |
 | 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7)|
-| 2/17/21 | Introduction to GGPLOTS | How Charts Lie |
+| 2/17/21 | Introduction to GGPLOTS | [Data is Good for Cities to Provide](https://docs.google.com/document/d/1NdyvanjoIKYkQNcL_sJSPO_ssPGYJyvn2sH28qHBJ70/edit) |
 | 2/22/21 | Guest Speaker ||
 | 2/24/21 | Work Day | Data Exploration Homework |
 | 3/1/21  | Ethics and Data Annonymity |  |
