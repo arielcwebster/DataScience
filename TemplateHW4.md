@@ -29,7 +29,7 @@ Describe your data set, including a link to the data.
 ## Discoveries & Insights
 
 Images should be large and easy to see and interperate. 
-Captions underneath should be 40-70 words long.
+Captions underneath should be 20-70 words long.
 
 ## Conclusion
 
