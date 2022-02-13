@@ -21,7 +21,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7)|
 | 2/17/21 | Introduction to GGPLOTS | [Data is Good for Cities to Provide](https://docs.google.com/document/d/1NdyvanjoIKYkQNcL_sJSPO_ssPGYJyvn2sH28qHBJ70/edit) |
 | 2/22/21 | Guest Speaker ||
-| 2/24/21 | Work Day | Data Exploration Homework |
+| 2/24/21 | Work Day | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#) |
 | 3/1/21  | Ethics and Data Annonymity |  |
 | 3/3/21  | How to Un-Annonymize Data  | GGPLOTS Homework|
 | 3/8/21  | P- Hacking |  |
@@ -71,7 +71,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [NYT Covid Data](https://github.com/nytimes/covid-19-data)
 - [UN Refugee Agency](https://www.unhcr.org/en-us/data.html)
 - [World Health Organization](https://www.who.int/data/collections)
-- [UN Enviornmental Program](https://www.unep.org/publications-data)
+- [UN Environmental Program](https://www.unep.org/publications-data)
 - [Our World in Data](https://ourworldindata.org/)
 
 ### Extra Credit
