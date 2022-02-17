@@ -65,6 +65,8 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [Chart Selection Matrix](http://www.perceptualedge.com/articles/misc/Graph_Selection_Matrix.pdf)
 - [Beyond Bar and Line Graphs](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002128#)
 - [R Tutorial](http://www.r-tutor.com/r-introduction)
+- [ggplot Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)
+- [ggplot Introduction](https://rafalab.github.io/dsbook/ggplot2.html)
 
 
 ### Data Sets
