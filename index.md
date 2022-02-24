@@ -21,22 +21,22 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7)|
 | 2/17/21 | Introduction to GGPLOTS | [Data is Good for Cities to Provide](https://docs.google.com/document/d/1NdyvanjoIKYkQNcL_sJSPO_ssPGYJyvn2sH28qHBJ70/edit) |
 | 2/22/21 | Guest Speaker ||
-| 2/24/21 | Work Day | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#) |
-| 3/1/21  | Ethics and Data Annonymity |  |
-| 3/3/21  | How to Un-Annonymize Data  | GGPLOTS Homework|
-| 3/8/21  | P- Hacking |  |
-| 3/10/21 | Work Day| Data Annonymity Howework |
+| 2/24/21 | Work Day |  |
+| 3/1/21  | Remembering Statistics - Linear Regression|  |
+| 3/3/21  | Logistic Regression | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#)|
+| 3/8/21  | P-Hacking | P-Hacking Reading |
+| 3/10/21 | Work Day| GGPLOTS Homework |
 | 3/15/21 | SPRING BREAK |  |
 | 3/17/21 | SPRING BREAK - WOO |  |
-| 3/22/21 | Remember Statistics?    |  |
-| 3/24/21 | Random Forests | |
+| 3/22/21 | Ethics and Data Annonymity |  |
+| 3/24/21 | How to Un-Annonymize Data  |Data Annonymity Howework |
 | 3/29/21 | Advising Day    | |
-| 3/31/21 | Presentations  | Random Forests Homework Due |
-| 4/5/21  | Clustering - K Nearest Neighbors   |  |
-| 4/7/21  |  |  |
-| 4/12/21 |  | Clustering Homework Due |
+| 3/31/21 | Random Forests  |  |
+| 4/5/21  |    |  |
+| 4/7/21  |   |  Random Forests Homework Due|
+| 4/12/21 | Clustering - K Nearest Neighbors |  |
 | 4/14/21 |  | |
-| 4/19/21 |  | |
+| 4/19/21 |  |Clustering Homework Due |
 | 4/21/21 | Practice Presentations | Milestone |
 | 4/26/21 |  | |
 | 4/28/21 | Project Presentations | Final Project Due |
@@ -67,6 +67,9 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [R Tutorial](http://www.r-tutor.com/r-introduction)
 - [ggplot Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/data-visualization.pdf)
 - [ggplot Introduction](https://rafalab.github.io/dsbook/ggplot2.html)
+- [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
+- [Data Visualization Standards](https://xdgov.github.io/data-design-standards/components/colors
+- [Color Palettes and Accessiblity Features for Data Vizualization](https://medium.com/carbondesign/color-palettes-and-accessibility-features-for-data-visualization-7869f4874fca)
 
 
 ### Data Sets
