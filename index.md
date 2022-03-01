@@ -70,6 +70,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [Color Blindness Simulator](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [Data Visualization Standards](https://xdgov.github.io/data-design-standards/components/colors
 - [Color Palettes and Accessiblity Features for Data Vizualization](https://medium.com/carbondesign/color-palettes-and-accessibility-features-for-data-visualization-7869f4874fca)
+- [dplyr Tutorial](https://www.listendata.com/2016/08/dplyr-tutorial.html)
 
 
 ### Data Sets
