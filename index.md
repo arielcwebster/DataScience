@@ -54,6 +54,11 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [Gallup](https://www.gallup.com/home.aspx)
 - [2013 Higher Ed Data](https://github.com/arielcwebster/DataScience/blob/main/IPEDS_data.xlsx)
 
+3/1/22
+- [R Stats Worksheet](https://docs.google.com/document/d/1VkgAm94UEOMRdAE6RnRBpmxVjcSIJ2NufUX3MKc8Wb0/edit)
+- [dplyr Worksheet](https://docs.google.com/document/d/1SEZc9nrDm6NN7uqAjCA-hy6QPazf8pX5hfkxGBYSOzg/edit)
+- [Linear Regression Worksheet](https://docs.google.com/document/d/1BvlwbGg5-ByOsJgN2FqqOF5tIB9Q2hM3azCdKe5YPF0/edit)
+
 ### Recommended Reading
 
 - Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
