@@ -76,6 +76,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [Data Visualization Standards](https://xdgov.github.io/data-design-standards/components/colors
 - [Color Palettes and Accessiblity Features for Data Vizualization](https://medium.com/carbondesign/color-palettes-and-accessibility-features-for-data-visualization-7869f4874fca)
 - [dplyr Tutorial](https://www.listendata.com/2016/08/dplyr-tutorial.html)
+- [dplyr Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
 
 ### Data Sets
