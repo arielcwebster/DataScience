@@ -59,6 +59,11 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [dplyr Worksheet](https://docs.google.com/document/d/1SEZc9nrDm6NN7uqAjCA-hy6QPazf8pX5hfkxGBYSOzg/edit)
 - [Linear Regression Worksheet](https://docs.google.com/document/d/1BvlwbGg5-ByOsJgN2FqqOF5tIB9Q2hM3azCdKe5YPF0/edit)
 
+3/8/22
+- [Calculating P-Values](https://www.youtube.com/watch?v=5Z9OIYA8He8)
+- [P-Hacking XKCD](https://xkcd.com/882/)
+- [Science, Trust And Psychology In Crisis](https://www.npr.org/sections/13.7/2014/06/02/318212713/science-trust-and-psychology-in-crisis)
+
 ### Recommended Reading
 
 - Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
@@ -77,6 +82,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [Color Palettes and Accessiblity Features for Data Vizualization](https://medium.com/carbondesign/color-palettes-and-accessibility-features-for-data-visualization-7869f4874fca)
 - [dplyr Tutorial](https://www.listendata.com/2016/08/dplyr-tutorial.html)
 - [dplyr Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+- [P-Hacking Explainded](https://www.youtube.com/watch?v=Gx0fAjNHb1M&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=31)
 
 
 ### Data Sets
