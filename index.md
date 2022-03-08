@@ -83,6 +83,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [dplyr Tutorial](https://www.listendata.com/2016/08/dplyr-tutorial.html)
 - [dplyr Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - [P-Hacking Explainded](https://www.youtube.com/watch?v=Gx0fAjNHb1M&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr&index=31)
+- [Dead Fish Paper](https://www.wired.com/2009/09/fmrisalmon/)
 
 
 ### Data Sets
