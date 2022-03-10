@@ -64,6 +64,9 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 - [P-Hacking XKCD](https://xkcd.com/882/)
 - [Science, Trust And Psychology In Crisis](https://www.npr.org/sections/13.7/2014/06/02/318212713/science-trust-and-psychology-in-crisis)
 
+3/10/22
+- [Papers to Read in Class] (https://docs.google.com/document/d/1pqPzR_n8aDmDq-YRxrbjfKpa9UfhWcLjUygpu-m3e8Y/edit)
+
 ### Recommended Reading
 
 - Not Required Textbook - Data Analysis with Open Source Tools (ISBN-13: 9780596802356)
