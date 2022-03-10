@@ -66,6 +66,7 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 3/10/22
 - [Papers to Read in Class] (https://docs.google.com/document/d/1pqPzR_n8aDmDq-YRxrbjfKpa9UfhWcLjUygpu-m3e8Y/edit)
+- [Participation](https://docs.google.com/document/d/12VN_YoaWswvMlsJNYNCMk6u0WFoHxRTCFS0GAEzwW8k/edit)
 
 ### Recommended Reading
 
