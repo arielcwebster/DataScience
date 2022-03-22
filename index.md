@@ -24,8 +24,8 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 2/24/21 | Work Day |  |
 | 3/1/21  | Remembering Statistics - Linear Regression|  |
 | 3/3/21  | Logistic Regression | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#)|
-| 3/8/21  | P-Hacking | P-Hacking Reading |
-| 3/10/21 | Work Day| GGPLOTS Homework |
+| 3/8/21  | P-Hacking |  |
+| 3/10/21 | Presentations| Presentations |
 | 3/15/21 | SPRING BREAK |  |
 | 3/17/21 | SPRING BREAK - WOO |  |
 | 3/22/21 | Decision Trees |  |
