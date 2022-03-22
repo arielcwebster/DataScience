@@ -1,6 +1,6 @@
 ## Advanced Data Science 
 
-Ariel's Office Hours are TBA (please fill out [this survey](https://docs.google.com/forms/d/1jc2dXeU9GJZOfAxPFntLP7bNMJ5hwgOVPXl3L9O_x4Y/edit) about your availability so I can set them accordingly) or you can make an appointment outside those times by clicking this [link.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFwT2R0NWJJNk1ffGRlZmF1bHR8YzhhMzM4NmIyYWYyN2I1ZjE1NDBkODkzNDcxNzBlZTA)
+Ariel's Office Hours are Wednesday 11-2 or you can make an appointment outside those times by clicking this [link.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUFwT2R0NWJJNk1ffGRlZmF1bHR8YzhhMzM4NmIyYWYyN2I1ZjE1NDBkODkzNDcxNzBlZTA)
 
 Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the end of the first week of class.
 
