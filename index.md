@@ -28,12 +28,12 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 3/10/21 | Work Day| GGPLOTS Homework |
 | 3/15/21 | SPRING BREAK |  |
 | 3/17/21 | SPRING BREAK - WOO |  |
-| 3/22/21 | Ethics and Data Annonymity |  |
-| 3/24/21 | How to Un-Annonymize Data  |Data Annonymity Howework |
+| 3/22/21 | Decision Trees |  |
+| 3/24/21 | Random Forests | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |
 | 3/29/21 | Advising Day    | |
-| 3/31/21 | Random Forests  |  |
-| 4/5/21  |    |  |
-| 4/7/21  |   |  Random Forests Homework Due|
+| 3/31/21 | Data Annonimity |  |
+| 4/5/21  | Data Annonimity   |  |
+| 4/7/21  | Data Annonimity |  Random Forests Homework Due|
 | 4/12/21 | Clustering - K Nearest Neighbors |  |
 | 4/14/21 |  | |
 | 4/19/21 |  |Clustering Homework Due |
