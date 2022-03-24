@@ -29,9 +29,9 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 3/15/21 | SPRING BREAK |  |
 | 3/17/21 | SPRING BREAK - WOO |  |
 | 3/22/21 | Decision Trees |  |
-| 3/24/21 | Random Forests | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |
+| 3/24/21 | Work Day | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |
 | 3/29/21 | Advising Day    | |
-| 3/31/21 | Data Annonimity |  |
+| 3/31/21 | Work Day |  [Logistic Classification vs. Naive Bayes](https://docs.google.com/document/d/1O-DMEizpyg0C943koU7zPK2Avit05cT-Xf1T4ggKIzs/edit)|
 | 4/5/21  | Data Annonimity   |  |
 | 4/7/21  | Data Annonimity |  Random Forests Homework Due|
 | 4/12/21 | Clustering - K Nearest Neighbors |  |
