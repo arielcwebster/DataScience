@@ -100,3 +100,4 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 ### Extra Credit
 - [Mathematical Modeling in Oncology](https://docs.google.com/document/d/129lyUnsdJ5sv-qlDvwtha_m1PqcKj_WE29m__gmIRdk/edit)
+- [Quantam Computing NS&M](https://docs.google.com/document/d/1fVkiojNZnkylrQjTmcVwgRRELHJsqf6MQB6gPZQAVOY/edit)
