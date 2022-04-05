@@ -31,15 +31,15 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 3/22/21 | Decision Trees |  |
 | 3/24/21 | Work Day | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |
 | 3/29/21 | Advising Day    | |
-| 3/31/21 | Random Forests |  [Logistic Classification vs. Naive Bayes Homewrok](https://docs.google.com/document/d/1O-DMEizpyg0C943koU7zPK2Avit05cT-Xf1T4ggKIzs/edit)|
-| 4/5/21  | Big Data   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |
-| 4/7/21  | Data Annonimity |  Random Forests Homework|
-| 4/12/21 | Clustering - K Nearest Neighbors |  |
-| 4/14/21 |  | |
-| 4/19/21 |  |Clustering Homework Due |
-| 4/21/21 | Practice Presentations | Milestone |
-| 4/26/21 |  | |
-| 4/28/21 | Project Presentations | Final Project Due |
+| 3/31/21 | Decision Trees |  [Logistic Classification vs. Naive Bayes Homewrok](https://docs.google.com/document/d/1O-DMEizpyg0C943koU7zPK2Avit05cT-Xf1T4ggKIzs/edit)|
+| 4/5/21  | [Final Project](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |
+| 4/7/21  | | |
+| 4/12/21 | | |
+| 4/14/21 | |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) |
+| 4/19/21 | | |
+| 4/21/21 | | |
+| 4/26/21 | | [Final Project Rough Draft](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)|
+| 4/28/21 | | |
 
 ## More Resources
 
