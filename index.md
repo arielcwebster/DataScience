@@ -35,11 +35,11 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 4/5/21  | [Final Project](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |
 | 4/7/21  | Work Day | |
 | 4/12/21 | Random Forests | |
-| 4/14/21 | |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) |
+| 4/14/21 | Technical Bias |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) |
 | 4/19/21 | | |
 | 4/21/21 | | [Random Forest Homework](https://docs.google.com/document/d/1P1sIvms3UjZcpVE3BDDee3hlBfJQ9Nzij8gRqp6igOM/edit)|
 | 4/26/21 | | [Final Project Rough Draft](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)|
-| 4/28/21 | | |
+| 4/28/21 | | [Extra Credit Lab](https://docs.google.com/document/d/1eDwBrm8WRvQfbt25nfnnEppA4ljSTw9WWd3koiX_D80/edit)|
 
 ## More Resources
 
