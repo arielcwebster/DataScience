@@ -8,38 +8,38 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 ### Schedule
 
-| Date    | In Class | Due |
-| :---:   | :---: |:---: |
-| 1/18/21 | What is Data Science? <br> [In Class Reading](http://jse.amstat.org/v23n2/witmer.pdf)| Make sure to have Excel on your computer |
-| 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) |
-| 1/25/21 | Excel Presentations and Data Communication ||
-| 1/27/21 | Work Day | [VBA Homework](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit) |
-| 2/1/21  | Importance of Visualizations & Tableau  | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |
-| 2/3/21  | Class Cancled  |  |
-| 2/8/21  | Work Day   |  |
-| 2/10/21 | Data Exploration with Data Visualizations| [Data Visualization: What Works](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)<br> [Tablau Homework Due](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit#) |
-| 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7)|
-| 2/17/21 | Introduction to GGPLOTS | [Data is Good for Cities to Provide](https://docs.google.com/document/d/1NdyvanjoIKYkQNcL_sJSPO_ssPGYJyvn2sH28qHBJ70/edit) |
-| 2/22/21 | Guest Speaker ||
-| 2/24/21 | Work Day |  |
-| 3/1/21  | Remembering Statistics - Linear Regression|  |
-| 3/3/21  | Logistic Regression | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#)|
-| 3/8/21  | P-Hacking |  |
-| 3/10/21 | Presentations| Presentations |
-| 3/15/21 | SPRING BREAK |  |
-| 3/17/21 | SPRING BREAK - WOO |  |
-| 3/22/21 | Decision Trees |  |
-| 3/24/21 | Work Day | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |
-| 3/29/21 | Advising Day    | |
-| 3/31/21 | Decision Trees |  [Logistic Classification vs. Naive Bayes Homewrok](https://docs.google.com/document/d/1O-DMEizpyg0C943koU7zPK2Avit05cT-Xf1T4ggKIzs/edit)|
-| 4/5/21  | [Final Project](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |
-| 4/7/21  | Work Day | |
-| 4/12/21 | Random Forests | |
-| 4/14/21 | Technical Bias |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) |
-| 4/19/21 | | |
-| 4/21/21 | | [Random Forest Homework](https://docs.google.com/document/d/1P1sIvms3UjZcpVE3BDDee3hlBfJQ9Nzij8gRqp6igOM/edit)|
-| 4/26/21 | | [Final Project Rough Draft](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)|
-| 4/28/21 | | [Extra Credit Lab](https://docs.google.com/document/d/1eDwBrm8WRvQfbt25nfnnEppA4ljSTw9WWd3koiX_D80/edit)|
+| Date    | In Class | Due | Graded |
+| :---:   | :---: |:---: |:---:|
+| 1/18/21 | What is Data Science? <br> [In Class Reading](http://jse.amstat.org/v23n2/witmer.pdf)| Make sure to have Excel on your computer ||
+| 1/20/21 | Excel & VBA  | [Excel Homework](https://docs.google.com/document/d/1g8eOYNe9sDmrstRgvFRZBskxjaIaD7Za4lFXSgPPkVw/edit) | Grade Posted|
+| 1/25/21 | Excel Presentations and Data Communication |||
+| 1/27/21 | Work Day | [VBA Homework](https://docs.google.com/document/d/1bTkmUon_Kq6_DupNw2Szh-T4rFGqzeA2aIIBy7m1yhk/edit) |Grade Posted|
+| 2/1/21  | Importance of Visualizations & Tableau  | [Florence Nightengale](https://docs.google.com/forms/d/1FBgScIpV9Vpa-jb1nlWuoCqOxFE7v5SmQtacpFHpIq8/edit) |Grade Posted|
+| 2/3/21  | Class Cancled  |  ||
+| 2/8/21  | Work Day   |  ||
+| 2/10/21 | Data Exploration with Data Visualizations| [Data Visualization: What Works](https://docs.google.com/forms/d/1JJ3pD4m_kvgERvRMuFSiDxglcJmNxvg1N8fegM7ubyA/edit)<br> [Tablau Homework Due](https://docs.google.com/document/d/1bta4t39rpvl-kXgO2pmZPGypWnYyBbiyzCPek9kxv9E/edit#) |Grade Posted|
+| 2/15/21 | Introduction to R | [Reveal, Don't Conceal](https://forms.gle/whPpC55iAAqnpVzb7)|Grade Posted|
+| 2/17/21 | Introduction to GGPLOTS | [Data is Good for Cities to Provide](https://docs.google.com/document/d/1NdyvanjoIKYkQNcL_sJSPO_ssPGYJyvn2sH28qHBJ70/edit) |Grade Posted|
+| 2/22/21 | Guest Speaker |||
+| 2/24/21 | Work Day |  ||
+| 3/1/21  | Remembering Statistics - Linear Regression|  ||
+| 3/3/21  | Logistic Regression | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#)|Graded (not commented)|
+| 3/8/21  | P-Hacking |  ||
+| 3/10/21 | Presentations| Presentations |Graded (not commented)|
+| 3/15/21 | SPRING BREAK |  ||
+| 3/17/21 | SPRING BREAK - WOO ||  |
+| 3/22/21 | Decision Trees |  ||
+| 3/24/21 | Work Day | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |Graded (not commented)|
+| 3/29/21 | Advising Day |   | |
+| 3/31/21 | Decision Trees |  [Logistic Classification vs. Naive Bayes Homewrok](https://docs.google.com/document/d/1O-DMEizpyg0C943koU7zPK2Avit05cT-Xf1T4ggKIzs/edit)|Not Yet Graded|
+| 4/5/21  | [Final Project](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |Graded (not commented)|
+| 4/7/21  | Work Day | ||
+| 4/12/21 | Random Forests | ||
+| 4/14/21 | Technical Bias |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) ||
+| 4/19/21 | | ||
+| 4/21/21 | | [Random Forest Homework](https://docs.google.com/document/d/1P1sIvms3UjZcpVE3BDDee3hlBfJQ9Nzij8gRqp6igOM/edit)||
+| 4/26/21 | | [Final Project Rough Draft](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)||
+| 4/28/21 | | [Extra Credit Lab](https://docs.google.com/document/d/1eDwBrm8WRvQfbt25nfnnEppA4ljSTw9WWd3koiX_D80/edit)||
 
 ## More Resources
 
@@ -100,3 +100,4 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 
 ### Extra Credit
 - [Mathematical Modeling in Oncology](https://docs.google.com/document/d/129lyUnsdJ5sv-qlDvwtha_m1PqcKj_WE29m__gmIRdk/edit)
+- [Extra Credit Lab](https://docs.google.com/document/d/1eDwBrm8WRvQfbt25nfnnEppA4ljSTw9WWd3koiX_D80/edit)
