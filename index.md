@@ -23,21 +23,21 @@ Please fill out this [Data Survey](https://forms.gle/3fp11BtWCaWenGJr6) by the e
 | 2/22/21 | Guest Speaker |||
 | 2/24/21 | Work Day |  ||
 | 3/1/21  | Remembering Statistics - Linear Regression|  ||
-| 3/3/21  | Logistic Regression | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#)|Graded (not commented)|
+| 3/3/21  | Logistic Regression | [Data Exploration Homework](https://docs.google.com/document/d/1GJbs8fvJn99ogIkj3jbGYEoTcw0Tgu4XyI15WOqdQfs/edit#)|Grade Posted|
 | 3/8/21  | P-Hacking |  ||
-| 3/10/21 | Presentations| Presentations |Graded (not commented)|
+| 3/10/21 | Presentations| Presentations |Grade Posted|
 | 3/15/21 | SPRING BREAK |  ||
 | 3/17/21 | SPRING BREAK - WOO ||  |
 | 3/22/21 | Decision Trees |  ||
-| 3/24/21 | Work Day | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |Graded (not commented)|
+| 3/24/21 | Work Day | [Visual Intro to Machine Learning](https://docs.google.com/forms/d/e/1FAIpQLSe3ycyx_XZeijp9AvWHI_DwXUKK5ptuS7-KhhW7wZfcMaoqyQ/viewform?usp=sf_link) |Grade Posted|
 | 3/29/21 | Advising Day |   | |
 | 3/31/21 | Decision Trees |  [Logistic Classification vs. Naive Bayes Homewrok](https://docs.google.com/document/d/1O-DMEizpyg0C943koU7zPK2Avit05cT-Xf1T4ggKIzs/edit)|Not Yet Graded|
-| 4/5/21  | [Final Project](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |Graded (not commented)|
+| 4/5/21  | [Final Project](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)   | [Undefined By Data: A Survey of Big Data Definitions](https://docs.google.com/forms/d/e/1FAIpQLSc8BM1Nn3CZYetIb6PrSCHPaD65oO-5uQnDXeZkthmBzDhJlg/viewform?usp=sf_link) |Grade Posted|
 | 4/7/21  | Work Day | ||
 | 4/12/21 | Random Forests | ||
-| 4/14/21 | Technical Bias |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) ||
-| 4/19/21 | | ||
-| 4/21/21 | | [Random Forest Homework](https://docs.google.com/document/d/1P1sIvms3UjZcpVE3BDDee3hlBfJQ9Nzij8gRqp6igOM/edit)||
+| 4/14/21 | Technical Bias |[Annotated Bibilography](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit) | Grade Posted|
+| 4/19/21 | Class Canceled | ||
+| 4/21/21 | Class Canceled | [Random Forest Homework](https://docs.google.com/document/d/1P1sIvms3UjZcpVE3BDDee3hlBfJQ9Nzij8gRqp6igOM/edit)||
 | 4/26/21 | | [Final Project Rough Draft](https://docs.google.com/document/d/1kfQRu0UR9cMMZp4FJakoDQTfe3IErKiSW0BAckgqqNo/edit)||
 | 4/28/21 | | [Extra Credit Lab](https://docs.google.com/document/d/1eDwBrm8WRvQfbt25nfnnEppA4ljSTw9WWd3koiX_D80/edit)||
 
